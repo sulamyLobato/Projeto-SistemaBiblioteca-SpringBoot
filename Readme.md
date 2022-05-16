@@ -1,4 +1,8 @@
-# Project using Spring Boot
-The purpose of this project is to practice some Spring Boot features.
-- Slyway
-- Swagger 
+Projeto realizado pela plataforma GrandePorte cursos 
+
+Desenvolvendo uma Api
+
+fazendo uma Crud Completa
+
+
+
